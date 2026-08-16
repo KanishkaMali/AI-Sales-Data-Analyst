@@ -1656,7 +1656,8 @@ images/powerbi.png
 Insert Screenshot
 
 ```
-images/ai_chat.png
+<img width="1596" height="809" alt="image" src="https://github.com/user-attachments/assets/92671548-42da-43a8-9cd6-dec474eeb60b" />
+
 ```
 
 ---
@@ -1783,35 +1784,20 @@ Fresh Graduate passionate about building AI-powered Data Analytics applications 
 LinkedIn
 
 ```
-https://www.linkedin.com/in/YOUR-LINKEDIN/
+https://www.linkedin.com/in/kanishka-mali/
 ```
 
-GitHub
 
-```
-https://github.com/YOUR-GITHUB
-```
 
 Email
 
 ```
-your-email@gmail.com
+kanishkamali874@gmail.com
 ```
 
 ---
 
-# 🙏 Acknowledgements
 
-Special thanks to:
-
-- Kaggle for providing the Sample Superstore dataset.
-- Microsoft for Power BI Desktop.
-- Google for the Gemini AI API.
-- Streamlit for the interactive web framework.
-- Plotly for visualization libraries.
-- The Python open-source community for the amazing ecosystem.
-
----
 
 # ⭐ If You Like This Project
 
